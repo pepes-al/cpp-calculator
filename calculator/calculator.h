@@ -1,1 +1,4 @@
-// В этом файле объявления функций.
+using Number = double;
+
+bool RunCalculatorCycle();
+bool ReadNumber(Number& n); 
